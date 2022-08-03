@@ -1,6 +1,6 @@
-                                                     # Cement-Comprensive-strength
+# Cement-Comprensive-strength
 
-                                     ![image](https://user-images.githubusercontent.com/104993367/182660733-8ab93f8d-b5f2-4d29-9100-970848fadbaa.png)
+   ![image](https://user-images.githubusercontent.com/104993367/182660733-8ab93f8d-b5f2-4d29-9100-970848fadbaa.png)
 
 
 The compressive strength of cement gives the idea about the basic cement strength. It gives the assurance for using. From this test, you can find how much cement is required and how much strength it will get. The compressive strength of cement is also the basic data needed for mix design.
