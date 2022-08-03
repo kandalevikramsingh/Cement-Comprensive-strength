@@ -8,10 +8,10 @@ The compressive strength of cement gives the idea about the basic cement strengt
 Cement, basically is known by its compressive strength. Cement is identified by its grade like 53 grade, 43 grade, 33 grade of cement. This grade indicates the compressive strength of cement, i.e. 53 grade of cement indicates that compressive strength of cement cube after 28 days of curing will be 53 N/mm2 (MPa) or 530 kg/cm2.
 
 # Libraries
-  pandas
-  matplotlib
-  seaborn
-  scikit-learn
+  1.pandas
+  2.matplotlib
+  3.seaborn
+  4.scikit-learn
   
 # Algorithms
-  
+  1.
